@@ -12,3 +12,6 @@
 <BR/>  3.Classifier：
              <BR/>     SVM
              <BR/>     ELM
+<BR/>If you have any questions and need more data or models, please contact me
+<BR/>If it is helpful to your project, please give us a star
+<BR/>If it is helpful to your paper, please cite our paper
