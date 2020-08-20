@@ -7,8 +7,8 @@
                <BR/>   DualNewton+Feature-sign
                <BR/>   Online dictionary learning+ LARS
                 <BR/>  Online dictionary learnin+Feature-sign
-  2.pyramid mathcing:
-                  time pyramid matching
-  3.Classifier：
-                  SVM
-                  ELM
+ <BR/> 2.pyramid mathcing:
+               <BR/>   time pyramid matching
+<BR/>  3.Classifier：
+             <BR/>     SVM
+             <BR/>     ELM
