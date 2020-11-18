@@ -1,6 +1,6 @@
 # Online-dictionary-learning
 This is the official Matlab implementation of online sparse dictionary learning and time pyramid matching 
-["ECG beats classification via online sparse dictionary and time pyramid matching"，In the IEEE 17th International Conference on Communication Technology (ICCT) ]
+["Nanyu Li, Yujuan Si, Duo Deng, Chunyu Yuan ECG beats classification via online sparse dictionary and time pyramid matching"，In the IEEE 17th International Conference on Communication Technology (ICCT) ]
 which can download from https://ieeexplore.ieee.org/abstract/document/8359889，https://arxiv.org/abs/2008.06672
 ## Compatibility
 * The code is tested using Window 10, with matlab 2012.
