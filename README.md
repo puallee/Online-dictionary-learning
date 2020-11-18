@@ -21,7 +21,7 @@ Recently, the Bag-Of-Word (BOW) algorithm provides efficient features and promot
              <BR/>     ELM
 ## Contact
 Email: nanyuli1994@gmail.com
-## relate journal 
+## related journal 
 Nanyu Li, Yujuan Si, Di Wang, Tong Liu, Jinrun Yu,ECG Beats Fast Classification Base on Sparse Dictionaries. which can download from https://arxiv.org/abs/2009.03792
 
 ## License
